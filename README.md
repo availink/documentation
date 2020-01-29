@@ -3,7 +3,7 @@ Satellite and Terrestrial Demodulation Chips
 
 | Part Number                                                                | Function                     | Note                  |
 | -------------------------------------------------------------------------- |:----------------------------:| :---------------------|
-| [AVL6211](https://github.com/availink/avl-demod/tree/master/AVL6211/)      | DVB-S2/S                     | First Gen Satellite   |
+| [AVL6211](tree/master/AVL6211/)      | DVB-S2/S                     | First Gen Satellite   |
 | [AVL6221](https://github.com/availink/avl-demod/tree/master/AVL6221/)      | DVB-S2/S                     | Second Gen Satellite  |
 | [AVL6261](https://github.com/availink/avl-demod/tree/master/AVL6261/)      | DVB-S2X/S2/S                 | Third Gen Satellite   |
 | [AVL6862](https://github.com/availink/avl-demod/tree/master/AVL6862/)      | DVB-T2/T/C/S2/S              | First Gen Multi-mode  |
