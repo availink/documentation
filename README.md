@@ -20,7 +20,7 @@ Satellite and Terrestrial Demodulation Chips
 
 #### Second Gen Satellite demoduation chip DVB-S/S2
 ##### Part number: AVL6221
-  [AVL6221 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6261/AVL6221C_product_brief.pdf)
+  [AVL6221 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6221/AVL6221C_product_brief.pdf)
 * Details see AVL6221 folder  
 
 #### Third Gen Satellite demoduation chip DVB-S/S2/S2X
