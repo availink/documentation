@@ -35,6 +35,6 @@ Satellite and Terrestrial Demodulation Chips
 
 #### Multi-standard Second Gen demoduation chip DVB-T2/T/C/S2/S/ISDB-T/J83.B
 ##### Part number: AVL6882
-  [AVL6862 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6882/AVL6882_product_brief.pdf)
-* Details see AVL6862 folder
+  [AVL6882 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6882/AVL6882_product_brief.pdf)
+* Details see AVL6882 folder
 
