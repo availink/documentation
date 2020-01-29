@@ -28,9 +28,9 @@ Satellite and Terrestrial Demodulation Chips
   [AVL6261 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6261/AVL6261C_product_brief.pdf)
 * Details see AVL6261 folder  
 
-#### Multi-standard First Gen demoduation chip DVB-T2/T/C/S2/SC
+#### Multi-standard First Gen demoduation chip DVB-T2/T/C/S2/S
 ##### Part number: AVL6862
-  [AVL6862 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6882/AVL6862_product_brief.pdf)
+  [AVL6862 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6862/AVL6862_product_brief.pdf)
 * Details see AVL6862 folder
 
 #### Multi-standard Second Gen demoduation chip DVB-T2/T/C/S2/S/ISDB-T/J83.B
