@@ -7,7 +7,7 @@ Satellite and Terrestrial Demodulation Chips
 | [AVL6221](https://github.com/availink/avl-demod/tree/master/AVL6221/)      | DVB-S2/S                     | Second Gen Satellite  |
 | [AVL6261](https://github.com/availink/avl-demod/tree/master/AVL6261/)      | DVB-S2X/S2/S                 | Third Gen Satellite   |
 | [AVL6862](https://github.com/availink/avl-demod/tree/master/AVL6862/)      | DVB-T2/T/C/S2/S              | First Gen Multi-mode  |
-| [AVL6882](https://github.com/availink/avl-demod/tree/master/AVL6882/)      | DVB-T2/T/C/S2/S/ISDB-T/J83.8 | Second Gen Multi-mode |
+| [AVL6882](https://github.com/availink/avl-demod/tree/master/AVL6882/)      | DVB-T2/T/C/S2/S/ISDB-T/J.83B | Second Gen Multi-mode |
 
 
 
@@ -33,7 +33,7 @@ Satellite and Terrestrial Demodulation Chips
   [AVL6862 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6862/AVL6862_product_brief.pdf)
 * Details see AVL6862 folder
 
-#### Multi-standard Second Gen demoduation chip DVB-T2/T/C/S2/S/ISDB-T/J83.B
+#### Multi-standard Second Gen demoduation chip DVB-T2/T/C/S2/S/ISDB-T/J.83B
 ##### Part number: AVL6882
   [AVL6882 Product Brief](https://github.com/availink/avl-demod/blob/master/AVL6882/AVL6882_product_brief.pdf)
 * Details see AVL6882 folder
