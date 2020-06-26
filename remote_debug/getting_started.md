@@ -13,4 +13,8 @@ The receiver can be controlled with either the supplied IR remote controller or 
 If you are using a wired connection to a DHCP enabled gateway, then all you should need to do is connect the Ethernet jack to an active
 port on your network.  If you are using Wifi,  you will need to follow this procedure:
 
-1. 
+1. From the CoreElec home screen, click on the gear icon in the upper left to go to settings
+![Click Gear Icon For Settings](01_ClickGearsForSettings.JPG) 
+2. Next, click the CoreElec logo button to go to system settings
+![Click CoreElec logo button for system settings](02_ClickCoreElecLogiButtonForSettings.JPG)
+
