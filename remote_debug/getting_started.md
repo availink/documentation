@@ -17,4 +17,11 @@ port on your network.  If you are using Wifi,  you will need to follow this proc
 ![Click Gear Icon For Settings](01_ClickGearsForSettings.JPG) 
 2. Next, click the CoreElec logo button to go to system settings
 ![Click CoreElec logo button for system settings](02_ClickCoreElecLogiButtonForSettings.JPG)
+3. Under Connections select the first or active connection and click enter
+![Under connections](03_UnderConnections.JPG)
+![Click existing Connection](04_ClickExistingConnection.JPG)
+4. Click Refresh and wait until the list of available Wifi networks is displayed
+![Click refresh and wait](05_ClickRefreshAndWait.JPG)
+![See available networks](06_SeeAvailableWifiConnectionsAndClicYours.JPG)
+5. Select your network
 
