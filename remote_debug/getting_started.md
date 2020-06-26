@@ -2,8 +2,8 @@
 
 #### The Basics
 The remote debug receiver device runs a custom Linux build from the installed SD-Card, please do not remove this card.
-The Device will need to be connected to the internet either via Wifi or a wired Ethernet connection to allow remote debugging
-of the Demodulator in the field. A Terrestrial Antenna should be connected to the Belling-Lee connector for DVB-T/T2/C and ISDB-T debug while a 
+The device will need to be connected to the internet either via Wifi or a wired Ethernet connection to allow remote debugging
+of the demodulator in the field. A terrestrial antenna should be connected to the Belling-Lee connector for DVB-T/T2/C and ISDB-T debug while a 
 pointed dish/LNB feed should be connected to the F-type connector for DVB-S/S2 debug.
 
 #### Controlling the box
