@@ -23,5 +23,8 @@ port on your network.  If you are using Wifi,  you will need to follow this proc
 4. Click Refresh and wait until the list of available Wifi networks is displayed
 ![Click refresh and wait](05_ClickRefreshAndWait.JPG)
 ![See available networks](06_SeeAvailableWifiConnectionsAndClicYours.JPG)
-5. Select your network
+5. Select your network, click, and then click connect
+![click connect for your network](07_ClickConnect.JPG)
+6. You should see the world icon next to your network connection indicating there is internet access
+![see the world icon indicating internet access](08_SeeTheWorldIconOnYurConnectionIndicatingInternetAccess.JPG)
 
